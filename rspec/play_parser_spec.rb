@@ -1,5 +1,4 @@
-require_relative '../lib/Play_parser'
-require_relative '../lib/Acts'
+require_relative '../lib/shakespeare_analyzer'
 
 describe Play_parser do
 
